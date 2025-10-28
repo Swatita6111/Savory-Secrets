@@ -20,12 +20,12 @@ This is a web application designed to help busy professionals like Taylor discov
 ---
 
 ## API Usage
-- **Get meals by ingredient:**  
-```http
-GET https://www.themealdb.com/api/json/v1/1/filter.php?i=${encodeURIComponent(ingredient)}
+- **Get meals by ingredient:**
+  `GET https://www.themealdb.com/api/json/v1/1/filter.php?i={ingredient}`
 
-- ** Get meal details by ID:**
-GET https://www.themealdb.com/api/json/v1/1/lookup.php?i=${encodeURIComponent(id)}
+- **Get meal details by ID:**  
+  `GET https://www.themealdb.com/api/json/v1/1/lookup.php?i={id}`
+
 
 ---
 
