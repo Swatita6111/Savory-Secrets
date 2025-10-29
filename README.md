@@ -62,6 +62,16 @@ Code is modular for easier maintenance and scalability.
 TheMealDB API provides meal names, images, ingredients, and cooking instructions.
 If no recipes are found for a given ingredient, users are notified via SweetAlert and redirected to the home page.
 
+## Deployment
+
+This Recipe Ideas app is hosted on **CodeSandbox**. You can either **edit the code** in the online editor or **use the live app** directly.
+
+- **CodeSandbox Editor (edit the sandbox):**  
+[Open Editor](https://codesandbox.io/p/github/Swatita6111/Savory-Secrets/main)
+
+- **Live Application (use the app directly):**  
+[Open Live App](https://7pyv7j-5173.csb.app/)
+
 ## Author
 
 Swatita Ray Nayak
